@@ -22,7 +22,6 @@ title: My Research Blog
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fugokidi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fugokidi
 github_username:  fugokidi
 
 # Build settings
