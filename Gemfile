@@ -31,5 +31,7 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "addressable", ">= 2.8.0"
+gem "rexml", ">= 3.2.5"
+
 
 
